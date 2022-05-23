@@ -9,15 +9,15 @@ global.thumbmenu = process.env.THUMB_MENU
 global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.NOWNER
+global.ownernumber = process.env.6289506219231
 global.owner = [
-  ['0'],
-  ['0'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
+  ['6289506219231'],
+  ['6289506219231'],
+  [`${process.env.6289506219231}`, `${process.env.JACKY}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = [6289506219231] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = process.env.JACKY
+global.author = process.env.JACKY
 
 global.multiplier = 69 // The higher, The harder levelup
 
